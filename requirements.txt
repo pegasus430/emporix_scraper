@@ -1,0 +1,14 @@
+fastapi==0.75.2
+uvicorn==0.17.6
+progressbar==2.5
+pydantic==1.9.0
+requests==2.27.1
+xmltodict==0.12.0
+pydantic==1.9.0
+google-cloud-storage
+gcsfs
+python-dotenv
+progressbar2
+faker
+google-cloud-bigquery
+polling

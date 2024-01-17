@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "icecat-demo",
+  "private_key_id": "612ccdfd6436a8b28a4714330d17b692a7539898",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTFJak03JTx/qv\ne6WvOb4iSEorUt1mzZZgqFDu5tI0JDQeBgCiJC9fyYc4Vx0rbiW3WrO/v3RKkvEZ\nhYvTGwSQAQ1R1EoUnFlZ/8nun2ECf0QxEqOe0YJ3WOXJEkBLh/CAhQ3w25YwhKPh\nTQzs0K1Kp364571HlhqralU635fSDiq+7WEZTTpPwxjjv3g2LwABxNCkud86JBRp\n889Trdnx8ohYBZTkglBvVsjX2ohnB2uWLWAZy+jQVO3ZmB/mb/GUuqP+b9A1pOwc\nLapAYSb5bdDNRr4Cb/hnab+ZFKCQFxv3Q5MPc2o9a9AmAdkvgtpirD5N2MeNelXz\n+C9ft1U1AgMBAAECggEAKNoCeMZ6iTf6LrXHwHS0tWZXwnBAbMnLuYvB1CbElnZO\nRuRDAZ5us8NpYfBMMzBXaNfLU4g+fcNYGagkwlfnh2ZIuWZUaw5CZb5xSrc6W3Ud\nkcDJfW6PaUFBgauAWY3m8DywEMYy2FOHcw6KOpf9feYSSr+A/MaShUvoUGNfOvYM\nSg2UDcIHOFnjQ//jVo7fxVbwephUvnkpbTBsuXkpc/uyr6RgX8461mYDMDT8c889\nlqP6wzjnEYO2xaBSQNSxMLkOE6ybXx9b0EdIRtlCz/2luPS3aFBapl3qyuU4nV+I\ngABqdBTyRz22kwlct7eFE7kMttXlW4Ryz9cIrl+jUQKBgQD35PE6QUks5b3BhbKu\nGe+FWddLu7P8kzZZc5104gtGkKsu36O42UXoa882B1LxwLl+gYU9cF19DG0gEju/\n9y0X8KUDlSA9qVRcP5Ab1dMu1rFlqnbcIkhr06Mp3Bj/zSpUv6klx+WLCAxvJCs1\n3ZSB2t3ryARZlZIw6tIAjCowsQKBgQDZ+3ykPGQLbbO/dw3RK6ifWZZM+gBAnpCG\nnWR6clLWhuRtfYHvfzZRcj47DE8fWajRkXV44sn4u3AcbR1GKZoh52k5kA3UV08G\nNsMi8pRF96+Sk75xEMFyk6IR8exnjhO1lNJPcEQUW4EJz21Gpt9rXJX8qlGpv3+W\nqClQ4eztxQKBgBhSUBClIybSi6GXGobWaJeuzt7RVcFsOCLiowo6u1x7CTCaJJgY\nSTGakkP8x/iMLibpUkdK5QFF3NcOsuoMuFHm/Gmzkew61toOKndwrT2lNtaAuRS0\nEGLz6shKnfFLEeIqw8+/IxhW+9FTvSGV0eJDtQ5TG4omkKdYAq6nEeShAoGAG+tU\nGY0Km1Qfs6RCBsp6vH4y/AUBR0WH6VX7apt99LAuTb/Hhq9ae7AQPGvlLnTDZKQm\n0abqi4smXt2y5Cur7C/BkHfc7ZeJLZiSAcXkK9n/iNyXhc/Jly1FktrTlqfh6l33\nWeldLuZRbro8mtIAx7WCGGyQLRez9c3wDMYDHKkCgYEA3kXyRFW4Ihc9T9By9ueJ\ntXNhBTp6b4Mjuqhv3ugv+5fxEQpXszdfzvRvXQf2zwBsHjOTbGA1c5au9AG1RMzG\nKQXwRr7U5chv+p17Ywp0jP5nzlJKp3hhWuyvHZswYMXOdIH/sNpCtjaeNacHMKMq\nD07jfCisx0/bPhyABo9t168=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bucket-access@icecat-demo.iam.gserviceaccount.com",
+  "client_id": "100580752277976648857",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bucket-access%40icecat-demo.iam.gserviceaccount.com"
+}
